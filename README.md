@@ -4,10 +4,8 @@ Simple Text Parser Application with Flink implementation
 
 ## Installation
 
-mvn clean install
-
 ```bash
-pip install foobar
+mvn clean install
 ```
 
 ## Usage
